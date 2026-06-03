@@ -1,0 +1,11 @@
+new
+insert 0 1 3.5
+insert 0 2 12.2
+insert 0 3 17.5
+insert 1 2 0.3
+insert 1 3 14.5
+insert 2 3 0.5
+~connected 3 4
+distance 0 3 4.3
+delete
+summary
