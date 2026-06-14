@@ -9,7 +9,7 @@
  *    - Kingsman Quek (20654179)
  *    - Ernest Tung (20693152)
  *    - Connor Chung (20603116)
- *    - 
+ *    - Charles Chano (20695462)
  *****************************************/
 
 #ifndef WEIGHTED_GRAPH_H
